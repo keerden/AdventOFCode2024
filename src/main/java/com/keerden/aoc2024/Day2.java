@@ -1,4 +1,4 @@
-package main;
+package com.keerden.aoc2024;
 
 import java.io.File;
 import java.io.IOException;

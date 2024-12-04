@@ -1,4 +1,4 @@
-package main;
+package com.keerden.aoc2024;
 
 import java.io.File;
 import java.io.IOException;
@@ -7,7 +7,8 @@ import java.nio.file.Files;
 import java.util.ArrayList;
 import java.util.List;
 
-import main.util.VectorObj;
+import com.keerden.aoc2024.util.VectorObj;
+
 
 public class Day4 {
     public static void main(String[] args) throws IOException

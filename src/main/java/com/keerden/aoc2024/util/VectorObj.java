@@ -1,4 +1,4 @@
-package main.util;
+package com.keerden.aoc2024.util;
 
 public class VectorObj {
     public int posX;
